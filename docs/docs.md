@@ -1,0 +1,1 @@
+All code and design documentation (in addition to GoDoc automatic documentation) goes here.
